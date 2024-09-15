@@ -31,6 +31,6 @@ public class Quick_Sort {
             }
         }
         Quick(nums,low,e);
-        Quick(nums,high,s);
+        Quick(nums,s,high);
     }
 }
